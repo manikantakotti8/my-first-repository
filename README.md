@@ -1,3 +1,4 @@
 # my-first-repository
 first time created a repository in Github
-Author- K L N MANIKANTA.
+<br>
+<i><u>Author- K L N MANIKANTA.</i></u>
